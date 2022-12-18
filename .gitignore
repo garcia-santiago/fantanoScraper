@@ -1,0 +1,5 @@
+node_modules/
+*.png
+*lock*
+
+node_modules/.pnpm
